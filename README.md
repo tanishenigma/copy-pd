@@ -33,7 +33,7 @@ This project combines scanned drawings (images) with pen/tablet trajectories (si
 
 | Modality | Samples | Subject groups | PD / HC groups |
 |---|---|---|---|
-| Images (scan + rendered) | 2809 (1296 scan, 1513 rendered) | 374 | 238 / 136 |
+| Images (scan + rendered) | 2963 (1450 scan, 1513 rendered) | 376 | 239 / 137 |
 | Signals (pen/tablet) | 2385 | 260 | 148 / 112 |
 
 Label convention: `1` = PD, `0` = healthy control (HC).
@@ -177,4 +177,4 @@ No license has been chosen for the code yet. MIT is planned.
 The datasets are **not** covered by this repository's license. Each source keeps its own terms, which are listed in `data/processed/DATASET_CARD.md`. Do not redistribute the processed images or signals. Cite every original dataset you use.
 
 
-this is an edit!
+this is an edit!# copy-pd
